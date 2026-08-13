@@ -1,0 +1,16 @@
+point_id,x,y,buffer_radius_m,conflicts_with,status
+P1,374.54,950.71,50,none,clear
+P2,731.99,598.66,50,none,clear
+P3,156.02,155.99,50,none,clear
+P4,58.08,866.18,50,none,clear
+P5,601.12,708.07,50,none,clear
+P6,20.58,969.91,50,none,clear
+P7,832.44,212.34,50,Zone_B_Pipeline,REVIEW REQUIRED
+P8,181.82,183.4,50,Zone_A_Protected,REVIEW REQUIRED
+P9,304.24,524.76,50,none,clear
+P10,431.95,291.23,50,Zone_A_Protected,REVIEW REQUIRED
+P11,611.85,139.49,50,Zone_B_Pipeline,REVIEW REQUIRED
+P12,292.14,366.36,50,Zone_A_Protected,REVIEW REQUIRED
+P13,456.07,785.18,50,none,clear
+P14,199.67,514.23,50,none,clear
+P15,592.41,46.45,50,none,clear
